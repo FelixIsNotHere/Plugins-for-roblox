@@ -1,0 +1,1 @@
+so for MoonAnimator2 comes from https://github.com/zildjibian/moon-animator which is a 2 year old version and if my memory serves me right you need to change the root part under Humanoid from either head to HumanoidRootPart or HumanoidRootPart to head
